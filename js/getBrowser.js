@@ -51,7 +51,7 @@
 	}else if(browser.indexOf('safari') > -1) {
 		browser = 'safari';
 	}else{
-		browser = 'unknown';
+		browser = '';
 	}
 
 	/**
